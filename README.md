@@ -16,7 +16,6 @@ The following steps are only for _one_ of the group members to perform.
 4. Add your team members as collaborators to the project so that they can push to this repo
 5. Let your team members know the repo URL so that they use the same repo (they should _not_ create a copy/fork of this repo since that will add additional workflow complexity to the project)
 
-
 ## Getting Started
 
 1. Create the `.env` by using `.env.example` as a reference: `cp .env.example .env`
@@ -52,6 +51,7 @@ The following steps are only for _one_ of the group members to perform.
 
 ## Final Project 
 !["Login Page"](https://github.com/faridamoussaeff/PasswordKeeper/blob/master/docs/loginpage.png)
-!["New Account Page"](https://github.com/faridamoussaeff/PasswordKeeper/blob/master/docs/newaccount.png)
-!["Dashboard with passwords"](https://github.com/faridamoussaeff/PasswordKeeper/blob/master/docs/passwords-dashboard.png)
+!["Register Page"](https://github.com/faridamoussaeff/PasswordKeeper/blob/master/docs/registerpage.png)
+!["Add new account page"](https://github.com/faridamoussaeff/PasswordKeeper/blob/master/docs/addnewaccountpage.png)
+!["Dashboard with all passwords and password generator"](https://github.com/faridamoussaeff/PasswordKeeper/blob/master/docs/dashboardpage.png)
 
