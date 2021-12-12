@@ -50,5 +50,5 @@ The following steps are only for _one_ of the group members to perform.
 - Cookie-session 1.4x or above 
 
 ## Final Project 
-!["Dashboard with all passwords and password generator"](https://github.com/faridamoussaeff/PasswordKeeper/blob/master/docs/dashboardpage.png)
+!["Dashboard with all passwords and password generator"](https://github.com/faridamoussaeff/PasswordKeeper/blob/master/docs/finalproductpage.png)
 
