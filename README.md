@@ -1,5 +1,10 @@
 LHL Node Skeleton
 =========
+## Project Description 
+
+PasswordKeeper is a storage system for passwords for organzations. An organization, like Lighthouse labs, has many different accounts which need to be shared between users. This app will let an authorized user acess all the passwords of the organization. The app will also let a user generate a new password for a specific account (just like LastPass). Users will be able to generate a password based on the options the form will provide. Some of the options are: password length, contains lowercase, contairs uppercase, contains numbers, and contains symbols.
+
+If a user needs to log in to a specific website (e.g. Facebook) they can go into the app, find the appropriate password, click a button which copies the password into the clipboard, and log in.
 
 ## Project Setup
 
@@ -41,3 +46,12 @@ The following steps are only for _one_ of the group members to perform.
 - Node 10.x or above
 - NPM 5.x or above
 - PG 6.x
+- Bootstrap 3.4.10
+- Bootswatch 3.4.
+- Cookie-session 1.4x or above 
+
+## Final Project 
+!["Login Page"]("https://github.com/faridamoussaeff/PasswordKeeper/blob/master/docs/loginpage.png")
+!["New Account Page"]("https://github.com/faridamoussaeff/PasswordKeeper/blob/master/docs/newaccount.png")
+!["Dashboard with passwords"]("https://github.com/faridamoussaeff/PasswordKeeper/blob/master/docs/passwords-dashboard.png")
+
