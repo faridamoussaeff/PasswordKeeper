@@ -52,3 +52,4 @@ The following steps are only for _one_ of the group members to perform.
 ## Final Project 
 !["Dashboard with all passwords and password generator"](https://github.com/faridamoussaeff/PasswordKeeper/blob/master/docs/finalproductpage.png)
 
+
