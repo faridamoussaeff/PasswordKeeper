@@ -51,7 +51,5 @@ The following steps are only for _one_ of the group members to perform.
 
 ## Final Project 
 !["Login Page"](https://github.com/faridamoussaeff/PasswordKeeper/blob/master/docs/loginpage.png)
-!["Register Page"](https://github.com/faridamoussaeff/PasswordKeeper/blob/master/docs/registerpage.png)
-!["Add new account page"](https://github.com/faridamoussaeff/PasswordKeeper/blob/master/docs/addnewaccountpage.png)
 !["Dashboard with all passwords and password generator"](https://github.com/faridamoussaeff/PasswordKeeper/blob/master/docs/dashboardpage.png)
 
