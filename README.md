@@ -51,7 +51,7 @@ The following steps are only for _one_ of the group members to perform.
 - Cookie-session 1.4x or above 
 
 ## Final Project 
-!["Login Page"]("https://github.com/faridamoussaeff/PasswordKeeper/blob/master/docs/loginpage.png")
-!["New Account Page"]("https://github.com/faridamoussaeff/PasswordKeeper/blob/master/docs/newaccount.png")
-!["Dashboard with passwords"]("https://github.com/faridamoussaeff/PasswordKeeper/blob/master/docs/passwords-dashboard.png")
+!["Login Page"](https://github.com/faridamoussaeff/PasswordKeeper/blob/master/docs/loginpage.png)
+!["New Account Page"](https://github.com/faridamoussaeff/PasswordKeeper/blob/master/docs/newaccount.png)
+!["Dashboard with passwords"](https://github.com/faridamoussaeff/PasswordKeeper/blob/master/docs/passwords-dashboard.png)
 
